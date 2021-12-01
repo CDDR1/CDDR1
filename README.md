@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ---
 
-- 📚🗽 I'm a computer programming student living in Long Island, NY 
-- 👨‍💻  My end goal is to be a Full Stack Developer 
-- 🕸️  🛠️ I'm currently polishing my Web-Dev skills
-- 🎆  My objective for 2022 is to learn React, Node, databases and TypeScript 
+- I'm a computer programming student living in Long Island, NY 📚🗽
+- My end goal is to be a Full Stack Developer 👨‍💻 
+- I'm currently polishing my Web-Dev skills 🕸️ 🛠️ 
+- My objective for 2022 is to learn React, Node, databases and TypeScript 🎆
 
 ---
 
