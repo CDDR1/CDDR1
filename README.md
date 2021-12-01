@@ -14,5 +14,5 @@
 
 ## My GitHub stats
 
-[![Carlos Duque's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&theme=tokyonight&layout=compact)](https://github.com/CDDR1/github-readme-stats)
+[![Carlos Duque's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&theme=tokyonight)](https://github.com/CDDR1/github-readme-stats)
 [![Carlos Duque's github stats](https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight)](https://github.com/CDDR1/github-readme-stats)
