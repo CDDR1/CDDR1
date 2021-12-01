@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Carlos 👋 💻
 
----
-
 - I'm a computer programming student living in Long Island, NY 📚🗽
 - My end goal is to be a Full Stack Developer 👨‍💻 
 - I'm currently polishing my Web-Dev skills 🕸️ 🛠️ 
 - My objective for 2022 is to learn React, Node, databases and TypeScript 🎆
 
----
-
-## Get in Touch!
+# Get in Touch!
 
 - 🌐 Website: coming soon 👀 🚧
 - 👨‍💼 💼 [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
