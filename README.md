@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I'm currently working on polishing my Web-Dev skills 🕸️ 🛠️ 
 - My objective for 2022 is to learn React, Node, databases and TypeScript 🚀 🎆
 
-## Get in Touch!
+## Lets get in Touch!
 
 - 🌐 Website: coming soon 👀 🚧
 - 👨‍💼 💼 [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
