@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ## Get in Touch!
 
 - 🌐 Website: coming soon 👀 🚧
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
-
+- 👨‍💼 💼 [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
+- 🏆 [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
