@@ -14,4 +14,4 @@
 
 ## My GitHub stats
 
-![Carlos Duque's github stats](https://github-readme-stats.vercel.app/api?username=CDDR1&theme=synthwave)
+![Carlos Duque's github stats](https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight)
