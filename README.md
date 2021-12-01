@@ -1,17 +1,3 @@
-<!--
-**CDDR1/CDDR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 
 # Hi there, I'm Carlos 👋 💻
 
@@ -25,3 +11,7 @@ Here are some ideas to get you started:
 - 🌐 Website: coming soon 👀 🚧
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
 - 🏆 Take a look at my Hackathons [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+## My GitHub stats
+
+[Carlos Duque's stats](/Users/Carlos_Duque/Documents/github-stats.svg)
