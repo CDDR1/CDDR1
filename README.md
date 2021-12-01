@@ -1,7 +1,7 @@
 
 # Hi there, I'm Carlos 👋 💻
 
-- I'm a computer programming student living in Long Island, NY 📚🗽
+- I'm a computer programming student living on Long Island, NY 📚🗽
 - My end-goal is to be a Full Stack Developer 👨‍💻 
 - I'm currently working on polishing my Web-Dev skills 🕸️ 🛠️ 
 - My objective for 2022 is to learn React, Node, databases and TypeScript 🚀 🎆
