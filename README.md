@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 
 ---
 
+## Get in Touch!
 
+- 🌐 Website: coming soon 👀 🚧
+- 👨‍💼 LinkedIn: (https://www.linkedin.com/in/carlos-duque-77488b1b8/)
 
