@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ## Lets get in Touch!
 
 - 🌐 Website: coming soon 👀 🚧
-- 👨‍💼 💼 [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
-- 🏆 [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- 👨‍💼 💼 Connect with me in [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
+- 🏆 Take a look at my Hackathons [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
