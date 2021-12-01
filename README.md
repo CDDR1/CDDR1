@@ -14,4 +14,4 @@
 
 ## My GitHub stats
 
-[Carlos Duque's stats](/Users/Carlos_Duque/Documents/github-stats.svg)
+![Carlos Duque's stats](/Users/Carlos_Duque/Documents/github-stats.svg)
