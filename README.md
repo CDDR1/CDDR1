@@ -5,6 +5,7 @@
 - My end-goal is to be a Full Stack Developer 👨‍💻 
 - I'm currently working on polishing my Web-Dev skills 🕸️ 🛠️ 
 - My objective for 2022 is to learn React, Node, databases and TypeScript 🚀 🎆
+- I'm interested in Web3 and Blockchain technologies ⬛ ⛓
 
 ## Lets get in Touch!
 
