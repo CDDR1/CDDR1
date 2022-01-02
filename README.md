@@ -7,7 +7,7 @@
 - My objective for 2022 is to learn React, Node, databases and TypeScript 🚀 🎆
 - I'm also interested in Web3 and Blockchain technologies ⬛ ⛓
 
-## Lets get in Touch!
+## Let's get in Touch!
 
 - 🌐 Website: coming soon 👀 🚧
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
