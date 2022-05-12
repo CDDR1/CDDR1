@@ -4,7 +4,7 @@
 - I'm a computer programming student living on Long Island, NY 📚🗽
 - My goal is to be a Full Stack Developer 👨‍💻 ⚙️
 - I'm currently working on polishing my Web-Dev skills 🕸️ 🛠️ 
-- My objective for 2022 is to learn React, Node, databases and TypeScript 🚀 🎆
+- My objective for 2022 is to learn React, SCSS, databases and TypeScript 🚀 🎆
 - I'm also interested in Web3 and Blockchain technologies ⬛ ⛓
 
 ## Let's get in Touch!
