@@ -9,7 +9,7 @@
 
 ## Let's get in Touch!
 
-- 🌐 Website: coming soon 👀 🚧
+- 🌐 Visit my [portfolio website](https://carlosduque.netlify.app/)
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
 - 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
