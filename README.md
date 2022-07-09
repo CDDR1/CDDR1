@@ -2,9 +2,9 @@
 # Hi there, I'm Carlos 👋 💻
 
 - I'm a computer programming student living on Long Island, NY 📚🗽
-- My goal is to become a Full Stack Developer 👨‍💻 ⚙️
+- After graduation I want to work as a Full Stack Developer 👨‍💻 ⚙️
 - I'm currently learning React.js ⚛️
-- My objective for 2022 is to learn React, SCSS, databases and TypeScript 🚀 🎆
+- My goals for 2022 are to learn React, SCSS, databases and TypeScript 🚀 🎆
 - I'm also interested in Web3 and Blockchain technologies ⬛ ⛓
 
 ## Let's get in Touch!
