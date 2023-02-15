@@ -4,7 +4,7 @@
 - I'm a computer programming student living on Long Island, NY 📚🗽
 - I want to become a Software Engineer 👨‍💻 ⚙️
 - Currently learning React.js and Express.js
-- My goals for 2023 are to learn TypeScript, Redux, GraphQL 🚀 🎆
+- My goals for 2023 are to learn TypeScript, Redux, GraphQL and Next.js 🚀 🎆
 - I'm also interested in Web3 and Blockchain technologies ⬛ ⛓
 
 ## Let's get in Touch!
