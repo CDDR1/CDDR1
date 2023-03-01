@@ -1,8 +1,7 @@
 
 # Hi there, I'm Carlos 👋 💻
 
-- I'm a computer programming student living on Long Island, NY 📚🗽
-- I want to become a Software Engineer 👨‍💻 ⚙️
+- I'm an aspiring Software Engineer living on Long Island, NY 📚🗽
 - Currently learning React.js and Express.js
 - My goals for 2023 are to learn TypeScript, Redux, GraphQL and Next.js 🚀 🎆
 - I'm also interested in Web3 and Blockchain technologies ⬛ ⛓
