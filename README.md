@@ -2,7 +2,7 @@
 # Hi there, I'm Carlos 👋 💻
 
 - I'm an aspiring Software Engineer living on Long Island, NY 📚🗽
-- Currently developing apps with React and Express ⚛️🚂
+- Currently developing apps with React and Express ⚛️ 🚂
 - My goals for 2023 are to learn TypeScript, Redux, GraphQL and Next.js 🚀 🎆
 - I'm also interested in Web3 and Blockchain technologies ⬛ ⛓
 
