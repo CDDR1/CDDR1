@@ -1,5 +1,5 @@
 
-# Hi there, I'm Carlos 👋 💻
+# Hey, I'm Carlos 👋 💻
 
 - I'm an aspiring Software Engineer living on Long Island, NY 📚🗽
 - Currently developing apps with React and Express ⚛️ 🚂
