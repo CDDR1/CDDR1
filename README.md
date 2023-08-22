@@ -1,4 +1,5 @@
-![github-header-image (2)](https://github.com/CDDR1/CDDR1/assets/62437724/9bde1591-01df-450d-a1ca-2e1b9ccae943)
+
+![github-header-image (2)](https://github.com/CDDR1/CDDR1/assets/62437724/9c23a49a-1625-4442-9240-125f40542f68)
 
 # Hey, I'm Carlos 👋 💻
 
