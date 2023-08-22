@@ -2,26 +2,6 @@
 
 <br>
 
-<!-- || CONTACT SECTION || -->
-<h2 align="center">Let's get in touch! 🤝</h2>
-
-<p align="center">
-  <a href="https://carlosduque.netlify.app/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100" height="30">
-  </a>
-  <a href="https://www.linkedin.com/in/carlosduq/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30">
-  </a>
-  <a href="https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" width="100" height="30">
-  </a>
-  <a href="mailto:carlos.d.duque.r@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30">
-  </a>
-</p>  
-
-<br>
-
 <!-- || TECH STACK SECTION || -->
 <h2 align="center">My Tech Stack 👨‍💻⚒️</h2>
 
@@ -53,3 +33,23 @@
     <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=600" />
   </a>
 </p> 
+
+<br>
+
+<!-- || CONTACT SECTION || -->
+<h2 align="center">Let's get in touch! 🤝</h2>
+
+<p align="center">
+  <a href="https://carlosduque.netlify.app/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/carlosduq/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30">
+  </a>
+  <a href="https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" width="100" height="30">
+  </a>
+  <a href="mailto:carlos.d.duque.r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30">
+  </a>
+</p>  
