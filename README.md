@@ -14,5 +14,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&layout=compact&theme=tokyonight">
+</p>
+
 ## Spotify 🎵
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=1000)
