@@ -5,6 +5,10 @@
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
 - 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</p>
+
 
 
 <h2 align="center">My Tech Stack 👨‍💻⚒️</h2>
