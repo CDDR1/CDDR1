@@ -3,7 +3,7 @@
 <br>
 
 <!-- || CONTACT SECTION || -->
-<h2 align="center">Let's get in Touch! 🤝</h2>
+<h2 align="center">Let's get in touch! 🤝</h2>
 
 <p align="center">
   <a href="https://carlosduque.netlify.app/">
