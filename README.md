@@ -1,4 +1,6 @@
-![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)  
+![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)
+
+<br>
 
 <h2 align="center">Let's get in Touch! 🤝</h2>
 
@@ -17,6 +19,8 @@
   </a>
 </p>  
 
+<br>
+
 
 
 <h2 align="center">My Tech Stack 👨‍💻⚒️</h2>
@@ -24,6 +28,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,ts,nodejs" width="400">
 </p>  
+
+<br>
 
 
 
@@ -36,7 +42,9 @@
 
 <p align="center">
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight" />
-</p>   
+</p>
+
+<br>
 
 
 
