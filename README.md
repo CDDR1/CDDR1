@@ -17,7 +17,9 @@
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight" />
 </p> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight)](https://git.io/streak-stats)
-
 ## Spotify 🎵
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=1000)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=600)
+
+<p align="center">
+ <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=600" />
+</p> 
