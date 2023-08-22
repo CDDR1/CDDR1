@@ -1,4 +1,5 @@
-![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/f0f5da76-dfd3-4150-89c4-39568b812459)
+![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)
+
 
 # Hey, I'm Carlos 👋 💻
 
