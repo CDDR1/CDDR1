@@ -17,6 +17,14 @@
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="70">
 </p>
 
+<p align="center">
+  <img src="./icons/MongoDB.svg" width="48">
+  <img src="./icons/ExpressJS-Dark.svg" width="48">
+  <img src="./icons/React-Dark.svg" width="48">
+  <img src="./icons/TypeScript.svg" width="48"> 
+  <img src="./icons/NodeJS-Dark.svg" width="48"> 
+</p>
+
 
 
 <h2 align="center">My GitHub Stats 📊</h2>
