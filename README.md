@@ -1,15 +1,20 @@
 ![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)
 
-## Let's get in Touch!
-- 🌐 Visit my [portfolio website](https://carlosduque.netlify.app/)
-- 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
-- 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+<h2>Let's get in Touch! 🤝</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100" height="30">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30">
-  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" width="100" height="30">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30">
+  <a href="https://carlosduque.netlify.app/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/carlosduq/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30">
+  </a>
+  <a href="https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" width="100" height="30">
+  </a>
+  <a href="mailto:carlos.d.duque.r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30">
+  </a>
 </p>
 
 
