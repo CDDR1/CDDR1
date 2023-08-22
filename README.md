@@ -5,7 +5,8 @@
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
 - 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-## My GitHub Stats 📊
+<h2>My GitHub Stats 📊</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&layout=compact&theme=tokyonight">
