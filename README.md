@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" width="200">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,ts,nodejs" width="300">
 </p>
 
 
