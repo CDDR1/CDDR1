@@ -1,6 +1,6 @@
-![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)
+![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)  
 
-<h2>Let's get in Touch! 🤝</h2>
+<h2 align="center">Let's get in Touch! 🤝</h2>
 
 <p align="center">
   <a href="https://carlosduque.netlify.app/">
@@ -15,7 +15,7 @@
   <a href="mailto:carlos.d.duque.r@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30">
   </a>
-</p>
+</p>  
 
 
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,ts,nodejs" width="400">
-</p>
+</p>  
 
 
 
@@ -36,7 +36,7 @@
 
 <p align="center">
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight" />
-</p> 
+</p>   
 
 
 
