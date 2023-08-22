@@ -6,7 +6,10 @@
 - 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="170">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100">
 </p>
 
 
