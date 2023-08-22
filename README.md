@@ -1,6 +1,8 @@
 ![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)
 
 <!-- || ABOUT ME SECTION || -->
+<h2 align="center">About Me 😀</h2>
+
 <p align="center">
   Creating websites sparked my passion for programming and Web Development. I like learning about new technologies and working on personal projects to fledge out my skills. When I'm not coding, you'll probably find me listening to music (mostly Rock), watching soccer or playing guitar.    
 </p>
