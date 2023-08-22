@@ -10,8 +10,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&layout=compact&theme=tokyonight&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&layout=compact&theme=tokyonight">
 </p>
+
+<p align="center">
+ <img  src="[https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0](http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight)" />
+</p> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight)](https://git.io/streak-stats)
 
