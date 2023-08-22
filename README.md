@@ -12,7 +12,7 @@
 - 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## Stats 📊
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Carlos Duque's github stats](https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight)](https://github.com/CDDR1/github-readme-stats)
 
