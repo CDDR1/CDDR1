@@ -2,6 +2,7 @@
 
 <br>
 
+<!-- || CONTACT SECTION || -->
 <h2 align="center">Let's get in Touch! 🤝</h2>
 
 <p align="center">
@@ -21,8 +22,7 @@
 
 <br>
 
-
-
+<!-- || TECH STACK SECTION || -->
 <h2 align="center">My Tech Stack 👨‍💻⚒️</h2>
 
 <p align="center">
@@ -31,8 +31,7 @@
 
 <br>
 
-
-
+<!-- || GITHUB STATS SECTION || -->
 <h2 align="center">My GitHub Stats 📊</h2>
 
 <p align="center">
@@ -46,8 +45,7 @@
 
 <br>
 
-
-
+<!-- || SPOTIFY SECTION || -->
 <h2 align="center">My Spotify 🎧</h2>
 
 <p align="center">
