@@ -11,11 +11,11 @@
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-duque-77488b1b8/)
 - 🏆 Take a look at my Hackathons in [DevPost](https://devpost.com/CDDR1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-## My GitHub stats
+## Stats 📊
 
 [![Carlos Duque's github stats](https://github-readme-stats.vercel.app/api?username=CDDR1&show_icons=true&theme=tokyonight)](https://github.com/CDDR1/github-readme-stats)
 
 [![Carlos Duque's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&layout=compact&theme=tokyonight)](https://github.com/CDDR1/github-readme-stats)
 
-## Spotify
+## Spotify 🎵
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=1000)
