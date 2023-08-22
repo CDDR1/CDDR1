@@ -1,5 +1,10 @@
 ![github-banner](https://github.com/CDDR1/CDDR1/assets/62437724/5638cabc-63dd-4dac-9a13-a08d8c8f7fc5)
 
+<!-- || ABOUT ME SECTION || -->
+<p align="center">
+  I like coding, playing guitar, watching/playing soccer and listening to music.  
+</p>
+
 <br>
 
 <!-- || CONTACT SECTION || -->
