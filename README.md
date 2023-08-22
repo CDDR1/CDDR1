@@ -2,7 +2,7 @@
 
 <!-- || ABOUT ME SECTION || -->
 <p align="center">
-  I like coding, playing guitar, watching/playing soccer and listening to music.  
+  Creating websites sparked my passion for programming and Web Development. I like learning about new technologies and working on personal projects to fledge out my skills. When I'm not coding, you'll probably find me listening to music (mostly Rock), watching soccer or playing guitar.    
 </p>
 
 <br>
