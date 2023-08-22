@@ -16,7 +16,11 @@
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=CDDR1&theme=tokyonight" />
 </p> 
 
-## Spotify 🎵
+<h2 align="center">My Spotify 🎧</h2>
+
 <p align="center">
- <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=600" />
+  <a href="https://open.spotify.com/user/jeffreyca16">
+    <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=600" />
+  </a>
+<!--   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16) -->
 </p> 
