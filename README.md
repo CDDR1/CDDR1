@@ -19,7 +19,7 @@
 <h2 align="center">My Spotify 🎧</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/	jarc5zfk55zb0vxv8k31jbvfx" target="_blank">
-    <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=600" />
+  <a href="https://open.spotify.com/user/	jarc5zfk55zb0vxv8k31jbvfx">
+    <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jarc5zfk55zb0vxv8k31jbvfx&count=3&width=500" />
   </a>
 </p> 
