@@ -18,4 +18,4 @@
 [![Carlos Duque's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDDR1&layout=compact&theme=tokyonight)](https://github.com/CDDR1/github-readme-stats)
 
 ## Spotify
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=cddr1)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=cddr1)](https://open.spotify.com/user/cddr1)
