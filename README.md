@@ -36,7 +36,7 @@
 <h2 align="center">My Tech Stack 👨‍💻⚒️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,ts,nodejs" width="400">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,ts,nodejs,tailwind" width="400">
 </p>  
 
 <br>
